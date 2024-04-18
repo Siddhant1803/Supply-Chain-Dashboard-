@@ -1,0 +1,2 @@
+*.pibx filter=lfs diff=lfs merge=lfs -text
+*.pbix filter=lfs diff=lfs merge=lfs -text
