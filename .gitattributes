@@ -1,2 +1,5 @@
 *.pibx filter=lfs diff=lfs merge=lfs -text
 *.pbix filter=lfs diff=lfs merge=lfs -text
+*.Xlsx filter=lfs diff=lfs merge=lfs -text
+*File[[:space:]]folder filter=lfs diff=lfs merge=lfs -text
+*.xlxs filter=lfs diff=lfs merge=lfs -text
